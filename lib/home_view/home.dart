@@ -10,7 +10,7 @@ class Home extends StatelessWidget {
       builder: (crl) {
         return Scaffold(
           appBar: AppBar(
-            title: const Text('GetX test'),
+            title: const Text('GetX testing'),
             actions: [
               IconButton(
                 onPressed: () {
